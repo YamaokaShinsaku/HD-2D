@@ -33,6 +33,6 @@ Material:
     - _Skew: -0.97
     - _Speed: 0.3
     m_Colors:
-    - _Color1: {r: 1, g: 1, b: 1, a: 0.54901963}
+    - _Color1: {r: 1, g: 1, b: 1, a: 0.36862746}
     - _Color2: {r: 1, g: 0.97647065, b: 0.6, a: 0.54901963}
   m_BuildTextureStacks: []
